@@ -15,9 +15,3 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ten-pi.vercel.app/api?username=ravi-kale&show_icons=true&hide_border=true" />
-
-</details>
