@@ -3,6 +3,8 @@
 
 ## I'm a Backend Developer!!
 
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kale&show_icons=true&theme=radical)
+
 
 ### Connect with me:
 
