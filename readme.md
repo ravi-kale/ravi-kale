@@ -3,7 +3,7 @@
 
 ## I'm a Backend Developer!!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=%004687&size=25&height=40&lines=I%27m+a+Backend+Developer;and+a+Production+engineer+%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=E9FFC400&width=435&lines=I'm+a+backend+developer;and+a+production+engineer+%3F)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ravi-kale&theme=tokyonight)](https://git.io/streak-stats)
 
