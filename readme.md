@@ -4,6 +4,7 @@
 ## I'm a Backend Developer!!
 
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-kale&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ravi-kale&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### Connect with me:
