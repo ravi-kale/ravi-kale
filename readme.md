@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kale-394801182/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ravikale__)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ravikale__/)
-![]([https://dcbadge.vercel.app/api/shield/406125028065804289](https://dcbadge.vercel.app/api/shield/1049757680731951184?theme=discord-inverted&style=flat-square))
+![](https://dcbadge.vercel.app/api/shield/1049757680731951184?theme=discord-inverted&style=flat-square)
 
 ---
 
